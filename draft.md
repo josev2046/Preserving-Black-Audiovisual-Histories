@@ -1,6 +1,6 @@
 # Save Your Archive: Black Lives – Historical Friendships and the King’s Men
 
-**Save Your Archive: Black Lives – Historical Friendships and the King’s Men** was a collaborative archival preservation project led by DOKUMENTA.VIDEO, aimed at digitising and providing access to endangered audiovisual records documenting Black histories and experiences. The initiative, supported by the [[FIAT/IFTA]] Save Your Archive programme, and presented at the [[FIAT/IFTA]] 2022 World Conference in Cape Town, focused on preserving materials from Ghana, South Africa, and the United Kingdom that were at risk due to media obsolescence. The project also gained coverage in the British Library's "Breaking in the News" blog and was supported by academic research. A DOI from Zenodo was created to permanently preserve the work.
+**Save Your Archive: Black Lives – Historical Friendships and the King’s Men** was a collaborative archival preservation project led by DOKUMENTA.VIDEO, aimed at digitising and providing access to endangered audiovisual records documenting Black histories and experiences. The initiative, supported by the [[FIAT/IFTA]] Save Your Archive programme, and presented at the [[FIAT/IFTA]] 2022 World Conference in Cape Town, focused on preserving materials from Ghana, South Africa, and the United Kingdom that were at risk due to media obsolescence. The project also gained coverage in the British Library's "Breaking in the News" blog and was supported by academic research. 
 
 ## Background
 
