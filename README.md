@@ -2,6 +2,11 @@
 
 A collaborative project preserving and providing access to endangered audiovisual archives documenting Black experiences. (Paper presented at the FIAT/IFTA 2022 World Conference in Cape Town)
 
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15045939.svg)](https://doi.org/10.5281/zenodo.15045939)
+
+
+
 ## Abstract
 
 The Black Lives project, undertaken by DOKUMENTA.VIDEO, addresses the critical need to preserve and make accessible vulnerable audiovisual archives documenting Black histories and experiences in Ghana, South Africa, and London. Through collaborative digitisation, metadata enrichment, and dissemination, this project aims to address the underrepresentation of Black narratives in historical records and promote a more comprehensive understanding of contemporary media practice.
