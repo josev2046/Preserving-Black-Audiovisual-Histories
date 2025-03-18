@@ -4,7 +4,7 @@ A collaborative project preserving and providing access to endangered audiovisua
 
 ## Abstract
 
-The Black Lives project, undertaken by Dokumenta.Video, addresses the critical need to preserve and make accessible vulnerable audiovisual archives documenting Black histories and experiences in Ghana, South Africa, and London. Through collaborative digitisation, metadata enrichment, and dissemination, this project aims to address the underrepresentation of Black narratives in historical records and promote a more comprehensive understanding of contemporary media practice.
+The Black Lives project, undertaken by DOKUMENTA.VIDEO, addresses the critical need to preserve and make accessible vulnerable audiovisual archives documenting Black histories and experiences in Ghana, South Africa, and London. Through collaborative digitisation, metadata enrichment, and dissemination, this project aims to address the underrepresentation of Black narratives in historical records and promote a more comprehensive understanding of contemporary media practice.
 
 ## Introduction
 
@@ -36,7 +36,7 @@ The project, led by Dokumenta Video, employs a collaborative methodology:
 
 ## Project Team
 
-* **Project Lead:** Jose Velazquez, MA (Dokumenta.Video)
+* **Project Lead:** Jose Velazquez, MA (DOKUMENTA.VIDEO)
 * **Digitisation Partners:** Memnon, LMH
 * **Support:** Save Your Archive Project of FIAT/IFTA
 
@@ -71,6 +71,7 @@ This project contributes to the preservation of endangered audiovisual heritage 
 
 ## References
 
+* DOKUMENTA.VIDEO
 * FIAT/IFTA Save Your Archive Initiative
 * Memnon
 * Breaking in the News (publication)
