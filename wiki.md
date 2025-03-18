@@ -65,7 +65,7 @@ Future plans include:
 
 ## Project Team
 
-* Project Lead: José Velazquez, MA (DOKUMENTA.VIDEO)
+* Project Lead: [José Velazquez, MA](https://orcid.org/0000-0003-4862-6021) ([DOKUMENTA.VIDEO](https://dokumenta.video/))
 * Digitisation Partners: Memnon, LMH
 * Support: FIAT/IFTA Save Your Archive initiative
 
