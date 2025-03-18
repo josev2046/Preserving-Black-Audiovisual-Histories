@@ -4,7 +4,7 @@
 
 ## Background
 
-The project was launched to address the underrepresentation of Black voices in audiovisual archives and to ensure the long-term accessibility of historical materials. Many of the audiovisual records involved were stored in deteriorating obsolete formats such as Beta SP, D1, D2 tapes, and ¼ inch audio reels, making them inaccessible to researchers and the public. The project was led by DOKUMENTA.VIDEO, a creative partnership between journalist [Dr. David Dunkley-Gyimah (Ph.D.)](https://profiles.cardiff.ac.uk/staff/gyimahd) and documentarian José Velazquez (M.A.), holding specialisms in academia, journalism, storytelling, major television production, and data architecture and advisories.
+The project was launched to address the underrepresentation of Black voices in audiovisual archives and to ensure the long-term accessibility of historical materials. Many of the audiovisual records involved were stored in deteriorating obsolete formats such as Beta SP, D1, D2 tapes, and ¼ inch audio reels, making them inaccessible to researchers and the public. The project was led by DOKUMENTA.VIDEO, a creative partnership between journalist [Dr. David Dunkley-Gyimah (Ph.D.)](https://profiles.cardiff.ac.uk/staff/gyimahd) and documentarian [José Velazquez (M.A.)](https://orcid.org/0000-0003-4862-6021), holding specialisms in academia, journalism, storytelling, major television production, and data architecture and advisories.
 
 Through a combination of digitisation, metadata enrichment, and collaboration with academic institutions, the project sought to preserve, catalogue, and contextualise these materials for academic and non-commercial research.
 
