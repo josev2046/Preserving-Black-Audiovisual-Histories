@@ -80,3 +80,4 @@ The Save Your Archive: Black Lives project contributed to the broader field of a
 * [Memnon](https://memnon.com/)
 * [Breaking in the News (publication)](https://blogs.bl.uk/thenewsroom/2022/04/breaking-the-news.html)
 * Dunkley Gyimah, David. "Black London (BBC GLR 1991-1993) the Importance of a BBC Radio Archive for Black British People and Scholars." doi: [https://doi.org/10.1080/19376529.2023.2261924](https://doi.org/10.1080/19376529.2023.2261924)
+* Velazquez, Jose. (2025, March 18). josev2046/Preserving-Black-Audiovisual-Histories: Preserving-Black-Audiovisual-Histories. https://doi.org/10.5281/zenodo.15045939
