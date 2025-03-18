@@ -71,7 +71,8 @@ This project contributes to the preservation of endangered audiovisual heritage 
 
 ## References
 
-* DOKUMENTA.VIDEO
-* FIAT/IFTA Save Your Archive Initiative
-* Memnon
-* Breaking in the News (publication)
+* [DOKUMENTA.VIDEO](https://www.dokumenta.video/)
+* [FIAT/IFTA Save Your Archive Initiative](https://fiatifta.org/save-your-archive/)
+* [Memnon](https://memnon.com/)
+* [Breaking in the News (publication)](https://blogs.bl.uk/thenewsroom/2022/04/breaking-the-news.html)
+* Dunkley Gyimah, David. "Black London (BBC GLR 1991-1993) the Importance of a BBC Radio Archive for Black British People and Scholars." doi: [https://doi.org/10.1080/19376529.2023.2261924](https://doi.org/10.1080/19376529.2023.2261924)
