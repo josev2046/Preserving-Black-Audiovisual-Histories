@@ -51,6 +51,7 @@ Dokumenta Video is a creative partnership between journalist Dr. David Dunkley-G
 
 ## Results
 
+*  **3 Collections; 150 entries; 3,557.4 Minutes, Fully searchable.**
 * Digitisation of nearly 60 hours of broadcast-quality material.
 * Creation of a fully searchable Media Asset Management system.
 * Presentation of project findings at institutions such as the British Library.
