@@ -43,7 +43,7 @@ The project, led by Dokumenta Video, employs a collaborative methodology:
 * **Media Asset Management:** Creation of a Media Asset Management (MAM) system for efficient storage, cataloguing, and retrieval of digitised assets.
 * **Metadata Enrichment:** Implementation of a bespoke metadata schema to describe individual assets, facilitating search and discovery.
 * **Academic Collaboration:** Partnering with academic institutions, such as Cardiff School of Journalism, Media and Culture, to research and contextualise the archival materials.
-* **Dissemination:** Presenting research and findings at conferences and through publications, such as the chapter by David Dunkley-Gyimah in "Breaking in the News."
+* **Dissemination:** Presenting research and findings at conferences and through publications, such as the chapter by David Dunkley-Gyimah in "Breaking the News."
 
 ## Project Team
 
@@ -86,5 +86,5 @@ This project contributes to the preservation of endangered audiovisual heritage 
 * [DOKUMENTA.VIDEO](https://www.dokumenta.video/)
 * [FIAT/IFTA Save Your Archive Initiative](https://fiatifta.org/save-your-archive/)
 * [Memnon](https://memnon.com/)
-* [Breaking in the News (publication)](https://blogs.bl.uk/thenewsroom/2022/04/breaking-the-news.html)
+* [Breaking the News (publication)](https://blogs.bl.uk/thenewsroom/2022/04/breaking-the-news.html)
 * Dunkley Gyimah, David. "Black London (BBC GLR 1991-1993) the Importance of a BBC Radio Archive for Black British People and Scholars." doi: [https://doi.org/10.1080/19376529.2023.2261924](https://doi.org/10.1080/19376529.2023.2261924)
