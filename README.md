@@ -19,6 +19,12 @@ This project, a recipient of the Save Your Archive initiative, focuses on the re
 * **Ghana-South African Co-production for Channel One:** Archiving production materials from the first major co-production between Ghana and South Africa for Channel One.
 * **BBC Black London:** Preserving rare audio recordings from the BBC Black London series, featuring interviews with prominent Black artists such as Eartha Kitt, Alice Walker, and Quincy Jones.
 
+
+
+https://github.com/user-attachments/assets/43a1409d-7f4d-4605-9b29-cf7d9941191f
+
+
+
 ## Objectives
 
 * Retrieve and digitise endangered audiovisual materials from the three identified collections.
