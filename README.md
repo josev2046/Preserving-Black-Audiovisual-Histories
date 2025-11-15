@@ -17,7 +17,7 @@ This paper details the “Save Your Archive: Black Lives” initiative, a collab
 
 Marginalised historical narratives face a significant threat due to the decay of physical media. For decades, the lived experiences of Black individuals across various regions, including Ghana, South Africa, and Britain, have been under-documented or absent from formal archives. The “Save Your Archive: Black Lives” initiative directly addresses this void by offering a methodological and technological intervention to ensure these vital histories are preserved and made accessible.
 
-This paper focuses on the broader implications of digitising and contextualising Black audiovisual heritage, drawing on insights from three distinct collections: the Reverend Sidney Pearson and Nana Prempeh I collection, the Ghana-South African Co-production for Channel One materials, and the BBC Black London archive.
+This paper focuses on the broader implications of digitising and contextualising Black audiovisual heritage, drawing on insights from three distinct collections: the Reverend Sidney Pearson and Nana Prempeh I collection, the Ghana-South African Co-production for Channel One materials, and the Black London archive.
 
 https://github.com/user-attachments/assets/43a1409d-7f4d-4605-9b29-cf7d9941191f
 
@@ -51,7 +51,7 @@ A central component of the project was the creation of a robust **Media Asset Ma
 
 ### 3.3 Collaborative and Dissemination Strategies
 
-The project embraced a collaborative approach, partnering with academic institutions, such as Cardiff School of Journalism, Media and Culture, to research and contextualise the archival materials. Dissemination of research and findings was achieved through presentations at conferences, including the **FIAT/IFTA 2022 World Conference in Cape Town**, and through publications, such as a chapter by Dr. David Dunkley-Gyimah in "Breaking the News" and his publication "Black London (BBC GLR 1991–1993): the Importance of a BBC Radio Archive for Black British People and Scholars." Presentations at institutions like the British Library and contributions to exhibitions like the British Library's "500 Years of News" further amplified the project's reach.
+The project embraced a collaborative approach, partnering with academic institutions, such as Cardiff School of Journalism, Media and Culture, to research and contextualise the archival materials. Dissemination of research and findings was achieved through presentations at conferences, including the **FIAT/IFTA 2022 World Conference in Cape Town**, and through publications, such as a chapter by Dr. David Dunkley-Gyimah in "Breaking the News" and his publication "Black London (1991–1993): the Importance of a BBC Radio Archive for Black British People and Scholars." Presentations at institutions like the British Library and contributions to exhibitions like the British Library's "500 Years of News" further amplified the project's reach.
 
 ---
 
@@ -67,9 +67,9 @@ This collection documents the unique historical friendship between an English Re
 
 This segment of the archive contains invaluable production materials from the first major co-production between Ghana and South Africa for Channel One. It provides insights into the nascent stages of media collaboration between these two African nations, reflecting evolving cultural and broadcasting landscapes.
 
-### 4.3 BBC Black London Archive
+### 4.3 The Black London Collection
 
-This collection comprises rare audio recordings from the **BBC Black London series**, broadcast between 1991 and 1993. It features interviews with prominent Black artists and figures such as Eartha Kitt, Alice Walker, and Quincy Jones. As highlighted in Gyimah (2023), this material offers a unique insight into the **Black British experience**, covering themes of systemic racism, political activism, cultural production, and social justice during a pivotal period.
+This collection comprises rare audio recordings from the **Black London series**, broadcast between 1991 and 1993. It features interviews with prominent Black artists and figures such as Eartha Kitt, Alice Walker, and Quincy Jones. As highlighted in Gyimah (2023), this material offers a unique insight into the **Black British experience**, covering themes of systemic racism, political activism, cultural production, and social justice during a pivotal period.
 
 ---
 
@@ -108,7 +108,7 @@ This project makes a significant contribution to the preservation of endangered 
 * [FIAT/IFTA Save Your Archive Initiative](https://fiatifta.org/save-your-archive/)
 * [Memnon](https://memnon.com/)
 * [Breaking the News (publication)](https://blogs.bl.uk/thenewsroom/2022/04/breaking-the-news.html)
-* Dunkley Gyimah, David. "Black London (BBC GLR 1991-1993) the Importance of a BBC Radio Archive for Black British People and Scholars." doi: [https://doi.org/10.1080/19376529.2023.2261924](https://doi.org/10.1080/19376529.2023.2261924)
+* Dunkley Gyimah, David. "Black London (1991-1993) the Importance of a BBC Radio Archive for Black British People and Scholars." doi: [https://doi.org/10.1080/19376529.2023.2261924](https://doi.org/10.1080/19376529.2023.2261924)
 
 ---
 
